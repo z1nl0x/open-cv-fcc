@@ -1,2 +1,4 @@
-/env/
-/resources/
+/.venv/
+/Photos/
+/Videos/
+/Faces/
